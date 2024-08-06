@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/kitti_yolo_v8/data/train
+val: /content/drive/MyDrive/kitti_yolo_v8/data/val
+nc: 9
+names: ["Car","Pedestrian","Van","Cyclist","Truck","Misc","Tram","Person_sitting","DontCare"]
