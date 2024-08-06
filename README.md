@@ -95,7 +95,8 @@ model in real-world scenarios.
 
 ## Results:
 
-![sample frame ](/home/madmax/kitti_yolo_v8_colab1/kitti_yolo_v8/runs/detect/val_batch2_pred.jpg)
+![sample frame ](/val_batch2_pred.jpg)
+![mAP for each class ](/Screenshot%20from%202024-08-06%2023-39-18.png)
 ## Conclusion :
 This POC demonstrates the feasibility of using YOLOv8 for object detection on the KITTI 2D
 dataset. Transfer learning proved to be an effective approach for training the model in a
