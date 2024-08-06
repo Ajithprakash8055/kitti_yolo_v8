@@ -93,6 +93,9 @@ model in real-world scenarios.
 |Libraries|OpenCV, Albumentations, Matplotlib, ONNX|
 |Hardware| GPU-enabled device for training, NVIDIA Jetson Orin Developer Kit for deployment|
 
+## Results:
+
+![sample frame ](/home/madmax/kitti_yolo_v8_colab1/kitti_yolo_v8/runs/detect/val_batch2_pred.jpg)
 ## Conclusion :
 This POC demonstrates the feasibility of using YOLOv8 for object detection on the KITTI 2D
 dataset. Transfer learning proved to be an effective approach for training the model in a
