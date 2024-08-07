@@ -94,6 +94,7 @@ model in real-world scenarios.
 |Hardware| GPU-enabled device for training, NVIDIA Jetson Orin Developer Kit for deployment|
 
 ## Results:
+For demonstration i have trained the model on a sample of  images the mAP will be increased as the training data increases 
 
 ![sample frame ](/val_batch2_pred.jpg)
 
